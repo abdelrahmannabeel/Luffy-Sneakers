@@ -15,8 +15,8 @@
 - This design is a workshop from [Bedimcode Channel](https://www.youtube.com/@Bedimcode)
 ### My Accounts
 💙 Follow Me to see more Projects like this
-- LinkedIn - [@abdelrahman-nabeel](https://www.linkedin.com/in/abdelrahman-nabeel/)
-- GitHub - [@abdelrahmannabeel](https://github.com/abdelrahmannabeel)
-- CodePen - [@Abdelrahman-nabeel](https://codepen.io/Abdelrahman-nabeel)
-- Frontend Mentor - [@abdelrahmannabeel](https://www.frontendmentor.io/profile/abdelrahmannabeel)
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-nabeel/)
+- [CodePen](https://codepen.io/Abdelrahman-nabeel)
+- [Frontend Mentorl](https://www.frontendmentor.io/profile/abdelrahmannabeel)
+- [Instagram](https://www.instagram.com/abdelrahman.nabeel.kassar/)
 ![AbdelRahman-Nabeel-Logo](./assets/images/AbdelRahman-Nabeel-Logo-v.png)
