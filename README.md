@@ -11,7 +11,7 @@
 - HTML
 - CSS
 - JavaScript
-### About The project
+### About The project And Copyrights
 - This design is a workshop from [Bedimcode Channel](https://www.youtube.com/@Bedimcode)
 ### My Accounts
 💙 Follow Me to see more Projects like this
