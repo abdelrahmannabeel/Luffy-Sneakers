@@ -12,8 +12,7 @@
 - CSS
 - JavaScript
 ### About The project
-- This design is a workshop from Bedimcode Channel
-[Youtube](https://www.youtube.com/@Bedimcode) - Bedimcode Channel
+- This design is a workshop from [Bedimcode Channel](https://www.youtube.com/@Bedimcode)
 ### My Accounts
 💙 Follow Me to see more Projects like this
 - LinkedIn - [@abdelrahman-nabeel](https://www.linkedin.com/in/abdelrahman-nabeel/)
