@@ -1,5 +1,5 @@
 # Luffy | Ecommerce Website Sneakers
-![preview img](/preview.png)
+![preview img](/preview.jpg)
 ## [Project Live Reviwe](https://abdelrahmannabeel.github.io/Luffy-Sneakers/)
 ### Responsive Ecommerce Website Sneakers
 - Responsive Ecommerce Website Using HTML CSS JavaScript
