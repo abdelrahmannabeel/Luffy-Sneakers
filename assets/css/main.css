@@ -510,7 +510,7 @@ img {
 .newsletter__container {
   background-color: var(--dark-color);
   color: var(--white-color);
-  padding: 2rem 0.5rem;
+  padding: 2rem 2.5rem;
   text-align: center;
   border-radius: 0.5rem;
   -webkit-border-radius: 0.5rem;
@@ -640,11 +640,12 @@ img {
     right: 0;
     left: -3rem;
   }
+}
+@media screen and (min-width: 1020px) {
   .newsletter__container {
     grid-template-columns: max-content max-content;
     justify-content: center;
     align-items: center;
-    padding: 4.5rem 2rem;
     column-gap: 3rem;
   }
   .newsletter__description {
